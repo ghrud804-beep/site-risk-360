@@ -1,0 +1,7 @@
+결과/
+*.xlsx
+*.csv
+*.json
+*.log
+.env
+.env.*
